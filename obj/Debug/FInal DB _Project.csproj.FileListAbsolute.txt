@@ -1,0 +1,20 @@
+D:\FInal DB _Project\FInal DB _Project\bin\Debug\FInal DB _Project.exe
+D:\FInal DB _Project\FInal DB _Project\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\FInal DB _Project\FInal DB _Project\bin\Debug\FInal DB _Project.exe.config
+D:\FInal DB _Project\FInal DB _Project\obj\Debug\FInal DB _Project.csproj.AssemblyReference.cache
+D:\FInal DB _Project\FInal DB _Project\obj\Debug\FInal DB _Project.csproj.SuggestedBindingRedirects.cache
+D:\FInal DB _Project\FInal DB _Project\obj\Debug\FInal_DB__Project.AdminManagement.resources
+D:\FInal DB _Project\FInal DB _Project\obj\Debug\FInal_DB__Project.EVENT.resources
+D:\FInal DB _Project\FInal DB _Project\obj\Debug\FInal_DB__Project.Form1.resources
+D:\FInal DB _Project\FInal DB _Project\obj\Debug\FInal_DB__Project.loginform.resources
+D:\FInal DB _Project\FInal DB _Project\obj\Debug\FInal_DB__Project.NewEvent.resources
+D:\FInal DB _Project\FInal DB _Project\obj\Debug\FInal_DB__Project.ParticipantMng.resources
+D:\FInal DB _Project\FInal DB _Project\obj\Debug\FInal_DB__Project.Properties.Resources.resources
+D:\FInal DB _Project\FInal DB _Project\obj\Debug\FInal_DB__Project.SpeakerMng.resources
+D:\FInal DB _Project\FInal DB _Project\obj\Debug\FInal DB _Project.csproj.GenerateResource.cache
+D:\FInal DB _Project\FInal DB _Project\obj\Debug\FInal DB _Project.csproj.CoreCompileInputs.cache
+D:\FInal DB _Project\FInal DB _Project\obj\Debug\FInal DB _Project.csproj.CopyComplete
+D:\FInal DB _Project\FInal DB _Project\obj\Debug\FInal DB _Project.exe
+D:\FInal DB _Project\FInal DB _Project\obj\Debug\FInal DB _Project.pdb
+D:\FInal DB _Project\FInal DB _Project\bin\Debug\FInal DB _Project.pdb
+D:\FInal DB _Project\FInal DB _Project\obj\Debug\FInal_DB__Project.Report.resources
